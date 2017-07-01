@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'Volta-Med';
+  src: url('Volta-Med.eot?#iefix') format('embedded-opentype'),  url('Volta-Med.otf')  format('opentype'),
+	     url('Volta-Med.woff') format('woff'), url('Volta-Med.ttf')  format('truetype'), url('Volta-Med.svg#Volta-Med') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
