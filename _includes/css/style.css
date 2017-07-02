@@ -38,7 +38,7 @@ body {
 	height: 100%;
 	color: {{ site.colors.secondary }};
 	font-family: 'Montserrat', sans-serif;
-	font-weight: 400;
+	font-weight: 300;
 	}
 
 h1, h2, h3, h4, h5, h6 {
@@ -50,7 +50,7 @@ p {
 	padding: 0;
 	margin-bottom: 12px;
 	font-family: 'Montserrat', sans-serif;
-	font-weight: 400;
+	font-weight: 300;
 	font-size: 14px;
 	line-height: 24px;
 	color: {{ site.colors.secondary }};
@@ -75,13 +75,13 @@ ol {
 a {
     color:{{ site.colors.link }};
     padding: 0;
-	margin: 0;
-	text-decoration: none;
-	-webkit-transition: background-color .4s linear, color .4s linear;
-	-moz-transition: background-color .4s linear, color .4s linear;
-	-o-transition: background-color .4s linear, color .4s linear;
-	-ms-transition: background-color .4s linear, color .4s linear;
-	transition: background-color .4s linear, color .4s linear;
+		margin: 0;
+		text-decoration: none;
+		-webkit-transition: background-color .4s linear, color .4s linear;
+		-moz-transition: background-color .4s linear, color .4s linear;
+		-o-transition: background-color .4s linear, color .4s linear;
+		-ms-transition: background-color .4s linear, color .4s linear;
+		transition: background-color .4s linear, color .4s linear;
 }
 a:hover,
 a:focus {
@@ -117,6 +117,7 @@ a:focus {
 	font-family: 'Volta-Med', serif;
 	font-weight: normal;
 	font-style: normal;
+	padding-top: 18px;
 }
 
 .navbar-header .navbar-brand {
@@ -127,6 +128,7 @@ a:focus {
 	color: white;
 	font-weight: 700;
 	font-size: 12px;
+	letter-spacing: .05em;
 }
 
 .navbar-default .navbar-nav > li > a:hover {
@@ -235,19 +237,28 @@ a:focus {
 ################################################################# */
 
 #headerwrap {
-	background-color: {{ site.colors.primary }};
+	background-color: #182E49;
+	background-image: url(/assets/img/header-bg.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	height: 750px;
 	min-height: 0px;
 	padding-top: 100px;
-	padding-bottom: 50px;
 	text-align: center;
 }
 
 #headerwrap h3, h5 {
 	color: white;
-	font-weight: 400;
+	font-weight: 300;
+	letter-spacing: .05em;
+	text-transform: uppercase;
 }
 
 #headerwrap h1 {
+	font-family: 'Volta-Reg', serif;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 48px;
 	color: white;
 	margin-bottom: 25px;
 }
@@ -434,6 +445,19 @@ a:focus {
 }
 
 #blue h3 {
+	color: white;
+	margin-left: 15px;
+}
+
+#red {
+	background: {{ site.colors.test-primary }};
+	margin-top: 60px;
+	margin-bottom: 60px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+#red h3 {
 	color: white;
 	margin-left: 15px;
 }
