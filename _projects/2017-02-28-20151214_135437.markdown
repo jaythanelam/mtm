@@ -1,0 +1,22 @@
+---
+layout: project
+title: "20151214_135437"
+date: 2017-03-06 16:54:46
+author: Phil Mullican
+categories:
+- project
+img: 20151214_135437_thumb.png
+thumb: 20151214_135437_thumb.png
+carousel:
+- 20151214_135437.jpg
+tagged: Flat, UI, Development
+client: Wonder Corp.
+website: http://blacktie.co
+---
+#### YOUR PROJECT NAME
+The task was to lift and 90 degree pitch various size spools of wire weighing up to 350 lbs.
+
+The solution was to design and build a three jaw grip tool with manually adjusted jaws to clamp the various size spools.
+
+#### Our Proposal
+It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.

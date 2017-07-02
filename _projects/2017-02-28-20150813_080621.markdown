@@ -1,0 +1,21 @@
+---
+layout: project
+title: "20150813_080621"
+date: 2017-03-06 16:54:46
+author: Phil Mullican
+categories:
+- project
+img: 20150813_080621_thumb.png
+thumb: 20150813_080621_thumb.png
+carousel:
+- 20150813_080621.jpg
+tagged: Flat, UI, Development
+client: Wonder Corp.
+website: http://blacktie.co
+---
+#### YOUR PROJECT NAME
+The customer had a concern with safety when assembling components on large air conditioner units.  The operators were using step ladders and carrying the components to be assembled up the ladder and attaching while on the step ladder.
+The solution was to design and build a rolling set of stairs with a platform at the desired height for attaching assemblies on the air conditioner unit.
+
+#### Our Proposal
+It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.

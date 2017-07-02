@@ -229,7 +229,7 @@ a:focus {
 }
 
 .hline-w {
-	border-bottom: 2px solid #ffffff;
+	border-bottom: 2px solid #656B6F;
 	margin-bottom: 25px;
 }
 /*	################################################################
@@ -237,10 +237,10 @@ a:focus {
 ################################################################# */
 
 #headerwrap {
-	background-color: #182E49;
+	background-color: #221C15;
 	background-image: url(/assets/img/header-bg.png);
 	background-repeat: no-repeat;
-	background-position: center center;
+	background-position: top center;
 	height: 750px;
 	min-height: 0px;
 	padding-top: 100px;
@@ -261,6 +261,7 @@ a:focus {
 	font-size: 48px;
 	color: white;
 	margin-bottom: 25px;
+	padding-top: 10px;
 }
 
 #headerwrap .img-responsive {
@@ -273,6 +274,14 @@ a:focus {
 	margin-bottom: 0px;
 }
 
+#service h3, h5 {
+	color: {{ site.colors.secondary }};
+	font-weight: 300;
+	letter-spacing: .05em;
+	text-transform: uppercase;
+	padding-bottom: 40px;
+}
+
 #service i {
 	color: {{ site.colors.primary }};
 	font-size: 60px;
@@ -282,7 +291,7 @@ a:focus {
 /* Portfolio Wrap */
 #portfoliowrap {
 	padding-top: 60px;
-	margin-bottom: 60px;
+	/* margin-bottom: 60px;*/
 	display: block;
 	text-align: center
 }

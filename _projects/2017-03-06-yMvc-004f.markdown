@@ -1,0 +1,23 @@
+---
+layout: project
+title: "Mvc-004f"
+date: 2017-03-06 16:54:46
+author: Phil Mullican
+categories:
+- project
+img: Mvc-004f_thumb.png
+thumb: Mvc-004f_thumb.png
+carousel:
+- Mvc-004f.jpg
+- Timet 006.jpg
+tagged: Flat, UI, Development
+client: Wonder Corp.
+website: http://blacktie.co
+---
+#### YOUR PROJECT NAME
+The Customer presented a challenge to reduce die change time on smaller press lines within a budget.
+
+The solution was to design and build a manually operated die change cart with a rotating top for staging the next die in the line up to reduce down time on the press.
+
+#### Our Proposal
+It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.

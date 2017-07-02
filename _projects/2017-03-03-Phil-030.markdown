@@ -1,0 +1,24 @@
+---
+layout: project
+title: "Phil 030"
+date: 2017-03-06 16:54:46
+author: Phil Mullican
+categories:
+- project
+img: Phil-030_thumb.png
+thumb: Phil-030_thumb.png
+carousel:
+- Phil-030.jpg
+tagged: Flat, UI, Development
+client: Wonder Corp.
+website: http://blacktie.co
+---
+#### YOUR PROJECT NAME
+The customer needed to transfer cylinder shape silicon ingots from production down into a cardboard box for shipment.
+
+The solution was to design and build a vacuum tool with floating wing cups for the various diameters and have a dual vacuum circuit along with a safety interlock for safe transfer and safety in the event of a single cup failure.
+
+In addition the tool is supplied with green poppets to indicate vacuum for safe lifting.
+
+#### Our Proposal
+It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
