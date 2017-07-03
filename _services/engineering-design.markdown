@@ -16,7 +16,7 @@ client:
 website:
 ---
 ### Engineering & Custom Design
-Master T&M can build to a customer’s design prints or designs can be provided as part of the project scope. Using AutoCAD and/or solid works software to design, we can find a solution to your problem. Our engineering group is committed to getting all the information required to develop a concept. The concept then becomes a sketch that can be visualized and from which a budget proposal can be provided to the customer.
+Master Tool & Machine can build to a customer’s design prints or designs can be provided as part of the project scope. Using AutoCAD and/or solid works software to design, we can find a solution to your problem. Our engineering group is committed to getting all the information required to develop a concept. The concept then becomes a sketch that can be visualized and from which a budget proposal can be provided to the customer.
 
 Master Tool & Machine’s design group can design automated and integrated systems to produce a new component or be an addition to an existing process. Whether it is a steel shipping container, a pneumatically controlled ergonomic lift assist, or an overhead bridge crane, please consider Master T&M for your next project.
 

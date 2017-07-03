@@ -20,8 +20,7 @@ This automated leak test tank and conveyance system was designed to replace a ma
 
 A local customer needed a solution to a die storage and quick die exchange problem on a muffler assembly line. Special assembly dies are used to join the muffler internal components together into a cartridge on which the outer shell of the muffler is then wrapped and laser welded.
 
-At the time, the dies were stored on the floor beside the press and moved by using a forklift. The dies were unusually tall and narrow making them top heavy and difficult to move safely especially by forklift. The die change was labor intensive
-requiring two technicians plus a forklift driver to position the die in the press. Once in the press, locating the die required guesswork and pry bars as no locating aids were present.
+At the time, the dies were stored on the floor beside the press and moved by using a forklift. The dies were unusually tall and narrow making them top heavy and difficult to move safely especially by forklift. The die change was labor intensive requiring two technicians plus a forklift driver to position the die in the press. Once in the press, locating the die required guesswork and pry bars as no locating aids were present.
 
 Master Tool’s solution was to build a die storage cart powered with a pneumatic motor and mounted on sub-floor mounted rails. The cart is controlled with the use of a hand-held  pendent which allows one technician to move, position the cart, and roll dies in and out of the press. The press bed was machined to accept multi-directional die rollers and locating stops for easy, dependable die locating without guesswork or additional tools.
 
