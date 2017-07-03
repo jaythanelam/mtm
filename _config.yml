@@ -4,7 +4,7 @@
 title: Master Tool &amp; Machine
 description: "Master Tool & Machine is your full circle manufacturing supplier, capable of evaluating problems – suggesting solutions - supplying AutoCAD drawings - building Custom machines & equipment - to production Fabrication."
 analytics: UA-101990076-1 #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "/mtm" #important: start with /
+baseurl: "" #important: start with /
 url: "https://jaythanelam.github.io"
 
 # Build settings
