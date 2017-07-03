@@ -238,7 +238,7 @@ a:focus {
 }
 
 .hline-w {
-	border-bottom: 2px solid #656B6F;
+	border-bottom: 2px solid #4C5A6C;
 	margin-bottom: 25px;
 }
 /*	################################################################
@@ -521,7 +521,7 @@ a:focus {
 }
 
 #red {
-	background: {{ site.colors.test-primary }};
+	background: #EAE1D6;
 	margin-top: 60px;
 	margin-bottom: 60px;
 	padding-top: 25px;
@@ -529,7 +529,7 @@ a:focus {
 }
 
 #red h3 {
-	color: white;
+	color: {{ site.colors.test-primary }};
 	margin-left: 15px;
 }
 
