@@ -34,4 +34,4 @@ This company was removing the seals from the mold and placing them in long horiz
 The customer was very pleased with the end result.
 
 **Please contact Master Tool & Machine today for assistance with your project, we want to serve you.**
-<p><br/><a href="/contact/" class="btn btn-theme">Contact Us</a></p>
+<p><br/><a href="{{"/contact/" | prepend: site.baseurl}}" class="btn btn-theme">Contact Us</a></p>

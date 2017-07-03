@@ -27,4 +27,4 @@ Master Tool’s solution was to build a die storage cart powered with a pneumati
 Before the cart was installed, a die change took approximately thirty minutes and three technicians. After the cart was installed, die change takes less than 5 minutes and one technician.
 
 **Please contact Master Tool & Machine today for assistance with your project, we want to serve you.**
-<p><br/><a href="/contact/" class="btn btn-theme">Contact Us</a></p>
+<p><br/><a href="{{"/contact/" | prepend: site.baseurl}}" class="btn btn-theme">Contact Us</a></p>

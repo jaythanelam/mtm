@@ -21,4 +21,4 @@ Low volume details are machined on the conventional mills and lathes while high 
 Using programmable machining software makes just about anything possible. We have the capabilities to download your drawings and make parts or we can design what you need upon your request and approval. With the addition of this software to our machining center, designs are stronger, construction is easier, performance of our tools is enhanced, and the project is more appealing to the eye.
 
 **Please contact Master Tool & Machine today for assistance with your project, we want to serve you.**
-<p><br/><a href="/contact/" class="btn btn-theme">Contact Us</a></p>
+<p><br/><a href="{{"/contact/" | prepend: site.baseurl}}" class="btn btn-theme">Contact Us</a></p>
