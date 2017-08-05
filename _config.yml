@@ -1,120 +1,113 @@
-### GENERAL SETTINGS ###
-
-# Site settings
+---
 title: Master Tool &amp; Machine
-description: "Master Tool & Machine is your full circle manufacturing supplier, capable of evaluating problems – suggesting solutions - supplying AutoCAD drawings - building Custom machines & equipment - to production Fabrication."
-analytics: UA-101990076-1 #Google analytics code in the format XX-nnnnnnnn-n
-
-# Build settings
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  projects:
+    title: Projects
+    output: true
+    permalink: "/projects/:title/"
+  questions:
+    title: Questions
+    output: true
+    permalink: "/questions/:title/"
+  services:
+    title: Services
+    output: true
+    permalink: "/services/:title/"
+  uploads:
+    title: Uploads
+    output: true
+description: Master Tool & Machine is your full circle manufacturing supplier, capable
+  of evaluating problems – suggesting solutions - supplying AutoCAD drawings - building
+  Custom machines & equipment - to production Fabrication.
+analytics: UA-101990076-1
 markdown: kramdown
-permalink: /:categories/:title
-excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
-
-colors:  #in hex code if not noted else
-  primary: "#00b3fe" #"#F70031"
-  primary_rgb: "24,46,73" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.
+permalink: "/:categories/:title"
+excerpt_separator: "<!--more-->"
+colors:
+  primary: "#00b3fe"
+  primary_rgb: '24,46,73'
   test-primary: "#C93333"
-  test-primary_rgb: "201, 51, 51"
-  secondary: "#182E49" #"#33004D"
+  test-primary_rgb: 201, 51, 51
+  secondary: "#182E49"
   link: "#3BAFDA"
   link_hover: "#5AD2FF"
   footer_heading: "#EAE1D6"
   footer_content: "#B6B4B3"
-
-# Making projects separate from posts
-collections:
-  projects:
-    output: true
-    permalink: /projects/:title/
-  questions:
-    output: true
-    permalink: /questions/:title/
-  services:
-    output: true
-    permalink: /services/:title/
-
-### CONTACT SETTINGS ###
-
-# Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
-  - title: dribbble
-    url:
-  - title: facebook
-    url:
-  - title: twitter
-    url:
-  - title: instagram
-    url:
-  - title: tumblr
-    url:
-
-# Postal address (add as many lines as necessary). Shown in footer and on Contact page.
+- title: dribbble
+  url: 
+- title: facebook
+  url: 
+- title: twitter
+  url: 
+- title: instagram
+  url: 
+- title: tumblr
+  url: 
 address:
-  - lines:
-    - 172 Finger Bluff Road,
-    - Morrison, TN 37357,
-    - United States.
+- lines:
+  - 172 Finger Bluff Road,
+  - Morrison, TN 37357,
+  - United States.
 email: info@mtmergo.com
 tel: 931-668-3979
-
-
-### GENERAL DATA FOR VARIOUS LOCATIONS ###
-
-# Members information. Shown on About page.
 members:
-  - name: Gerald Johnson
-    position: CEO
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team01.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
-  - name: Phil Mullican
-    position: Lead Designer
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team02.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
-  - name: Jay Elam
-    position: Lead Developer
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team03.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
-  - name: Pat Dooley
-    position: Marketing
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team04.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
-
-# Clients information. Shown on Home and About pages.
+- name: Gerald Johnson
+  position: CEO
+  text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+  img: team01.jpg
+  social:
+  - title: envelope
+    url: mailto:name@domain.com
+  - title: twitter
+    url: http://twitter.com/handle
+- name: Phil Mullican
+  position: Lead Designer
+  text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+  img: team02.jpg
+  social:
+  - title: envelope
+    url: mailto:name@domain.com
+  - title: twitter
+    url: http://twitter.com/handle
+- name: Jay Elam
+  position: Lead Developer
+  text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+  img: team03.jpg
+  social:
+  - title: envelope
+    url: mailto:name@domain.com
+  - title: twitter
+    url: http://twitter.com/handle
+- name: Pat Dooley
+  position: Marketing
+  text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+  img: team04.jpg
+  social:
+  - title: envelope
+    url: mailto:name@domain.com
+  - title: twitter
+    url: http://twitter.com/handle
 clients:
-  - name: dribbble
-    img: client01.png
-  - name: Code is Poetry
-    img: client02.png
-  - name: Vimeo
-    img: client03.png
-  - name: VimeoPro
-    img: client04.png
-
-# Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Master Tool & Machine is your full circle manufacturing supplier, capable of evaluating problems – suggesting solutions - supplying AutoCAD drawings - building Custom machines & equipment - to production Fabrication."
-
-# Testimonial content. Shown on Home and About page.
+- name: dribbble
+  img: client01.png
+- name: Code is Poetry
+  img: client02.png
+- name: Vimeo
+  img: client03.png
+- name: VimeoPro
+  img: client04.png
+about: Master Tool & Machine is your full circle manufacturing supplier, capable of
+  evaluating problems – suggesting solutions - supplying AutoCAD drawings - building
+  Custom machines & equipment - to production Fabrication.
 testimonial:
-    message: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
-    author: Wayne Singleton
-    position: Singleton Steel - CEO
+  message: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+    when an unknown printer took a galley of type and scrambled it to make a type
+    specimen book.
+  author: Wayne Singleton
+  position: Singleton Steel - CEO

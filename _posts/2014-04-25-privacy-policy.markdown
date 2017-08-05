@@ -1,12 +1,12 @@
 ---
-layout: post
-title: "Privacy Policy"
-date: 2014-04-25 16:54:46
-author: Admin
+title: Privacy Policy
+date: 2014-04-25 16:54:46 Z
 categories:
 - administrative
 - legal
 - policies
+layout: post
+author: Admin
 img: post03.jpg
 thumb: thumb03.jpg
 ---

@@ -1,10 +1,10 @@
 ---
-layout: service
-title:  "Engineering &amp; Custom Design"
-date:   2014-04-25 16:54:46
-author: Jay Elam
+title: Engineering &amp; Custom Design
+date: 2014-04-25 16:54:46 Z
 categories:
 - Services
+layout: service
+author: Jay Elam
 img: portfolio_10.jpg
 thumb: thumb02.jpg
 carousel:
@@ -12,9 +12,10 @@ carousel:
 - single02.jpg
 - single03.jpg
 tagged: engineering, design, custom
-client:
-website:
+client: 
+website: 
 ---
+
 ### Engineering & Custom Design
 Master Tool & Machine can build to a customer’s design prints or designs can be provided as part of the project scope. Using AutoCAD and/or solid works software to design, we can find a solution to your problem. Our engineering group is committed to getting all the information required to develop a concept. The concept then becomes a sketch that can be visualized and from which a budget proposal can be provided to the customer.
 

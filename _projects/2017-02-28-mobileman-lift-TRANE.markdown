@@ -1,10 +1,10 @@
 ---
-layout: project
-title: "Mobile Man lift for assembly at TRANE"
-date: 2017-03-06 16:54:46
-author: Phil Mullican
+title: Mobile Man lift for assembly at TRANE
+date: 2017-03-06 16:54:46 Z
 categories:
 - project
+layout: project
+author: Phil Mullican
 img: Mobile-Manlift-assembly-TRANE_thumb.png
 thumb: Mobile-Manlift-assembly-TRANE_thumb.png
 carousel:
@@ -14,6 +14,7 @@ tagged: Flat, UI, Development
 client: Wonder Corp.
 website: http://blacktie.co
 ---
+
 #### YOUR PROJECT NAME
 The issue presented was a safety concern. The operators were taking panels and attaching to a large air conditioning unit using ladders to hold the panels in position while having to attach them with screws.
 

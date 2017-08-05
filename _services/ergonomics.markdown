@@ -1,10 +1,10 @@
 ---
-layout: service
-title:  "Ergonomics"
-date:   2014-04-25 16:54:46
-author: Jay Elam
+title: Ergonomics
+date: 2014-04-25 16:54:46 Z
 categories:
 - Services
+layout: service
+author: Jay Elam
 img: portfolio_10.jpg
 thumb: thumb02.jpg
 carousel:
@@ -12,9 +12,10 @@ carousel:
 - single02.jpg
 - single03.jpg
 tagged: ergonomics, manufacturing, equipment, custom
-client:
-website:
+client: 
+website: 
 ---
+
 ### Ergonomic Problem Solving
 Whether the task is to reduce repetitious movement, prevent injuries, or increase productivity, Master T&M has many years of experience in the design and fabrication of ergonomic lift assists. With hundreds of projects dealing with many different industries, we can find a solution for the problems that you may face. Give us a chance to propose a solution to those problems. Call Master Tool & Machine today.
 
