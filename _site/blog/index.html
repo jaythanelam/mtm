@@ -9,15 +9,22 @@
     <meta name="author" content="">
     <link rel="shortcut icon" href="/assets/ico/favicon.ico">
 
-    <title>Master Tool &amp; Machine - Blog</title>
+    <title>Master Tool &amp; Machine - News</title>
 
     <!-- Bootstrap core CSS -->
     <link href="/assets/css/bootstrap.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="/assets/css/style.css" rel="stylesheet">
+    <link href="/assets/css/main.css" rel="stylesheet">
     <link href="/assets/css/font-awesome.min.css" rel="stylesheet">
-    
+
+
+    <!-- Custom styles for flickity carousel -->
+    <link href="/assets/css/flickity.css" rel="stylesheet">
+    <script src="/assets/js/fLickity.js"></script>
+
+
+
     <!-- Custom CSS -->
     <!--<link rel="stylesheet" href="/css/main.css">-->
 
@@ -32,43 +39,14 @@
     <![endif]-->
 </head>
 
+
     <body>
-        <!-- Fixed navbar -->
-<div class="navbar navbar-default navbar-fixed-top" role="navigation">
-  <div class="container">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a class="navbar-brand" href="/">Master Tool &amp; Machine</a>
-    </div>
-    <div class="navbar-collapse collapse navbar-right">
-      <ul class="nav navbar-nav">
-        <li ><a href="/">HOME</a></li>
-<!--
-        <li class="active"><a href="/blog/">BLOG</a></li>
-        <li ><a href="/portfolio/">PORTFOLIO</a></li>
--->
-        <li class="dropdown" ><a href="">SERVICES</a></li>
-
-        <li ><a href="/services/ergonomics/">ERGONOMICS</a></li>
-        <li ><a href="/services/machining/">MACHINING</a></li>
-
-        <li ><a href="/about/">ABOUT</a></li>
-        <li ><a href="/contact/">CONTACT</a></li>
-      </ul>
-    </div><!--/.nav-collapse -->
-  </div>
-</div>
-
+        
 
             <div id="red">
     <div class="container">
         <div class="row">
-            <h3>Blog</h3>
+            <h3>News</h3>
         </div><!-- /row -->
     </div> <!-- /container -->
 </div><!-- /red -->
@@ -95,22 +73,6 @@
                 <div class="spacing"></div>
             
                 <! -- Blog Post -->
-                <a href="/administrative/legal/policies/privacy-policy">
-                    <img class="img-responsive" src="/assets/img/blog/post03.jpg">
-                </a>
-                <a href="/administrative/legal/policies/privacy-policy"><h3 class="ctitle">Privacy Policy</h3></a>
-                <p><csmall>Apr 25, 2014. | By: Admin</csmall></p>
-                <p><b>Thank you for visiting Master Tool &amp; Machine.</b></p>
-
-<p>The purpose of our policy is to inform you about the types of information we gather about you when you visit our web site, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information that you provide to us.</p>
-
-
-                <p><a href="/administrative/legal/policies/privacy-policy">[Read More]</a></p>
-                <div class="hline"></div>
-
-                <div class="spacing"></div>
-            
-                <! -- Blog Post -->
                 <a href="/blog/wordpress/photoshop/time-to-change-your-apps">
                     <img class="img-responsive" src="/assets/img/blog/post01.jpg">
                 </a>
@@ -122,6 +84,22 @@
 
 
                 <p><a href="/blog/wordpress/photoshop/time-to-change-your-apps">[Read More]</a></p>
+                <div class="hline"></div>
+
+                <div class="spacing"></div>
+            
+                <! -- Blog Post -->
+                <a href="/administrative/legal/policies/privacy-policy">
+                    <img class="img-responsive" src="/assets/img/blog/post03.jpg">
+                </a>
+                <a href="/administrative/legal/policies/privacy-policy"><h3 class="ctitle">Privacy Policy</h3></a>
+                <p><csmall>Apr 25, 2014. | By: Admin</csmall></p>
+                <p><b>Thank you for visiting Master Tool &amp; Machine.</b></p>
+
+<p>The purpose of our policy is to inform you about the types of information we gather about you when you visit our web site, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information that you provide to us.</p>
+
+
+                <p><a href="/administrative/legal/policies/privacy-policy">[Read More]</a></p>
                 <div class="hline"></div>
 
                 <div class="spacing"></div>
@@ -178,16 +156,6 @@
         </p>
     
         <p>
-            <a href="/category/#Wordpress"><i class="fa fa-angle-right"></i> Wordpress</a>
-            <span class="badge badge-theme pull-right">1</span>
-        </p>
-    
-        <p>
-            <a href="/category/#Photoshop"><i class="fa fa-angle-right"></i> Photoshop</a>
-            <span class="badge badge-theme pull-right">1</span>
-        </p>
-    
-        <p>
             <a href="/category/#administrative"><i class="fa fa-angle-right"></i> Administrative</a>
             <span class="badge badge-theme pull-right">1</span>
         </p>
@@ -199,6 +167,16 @@
     
         <p>
             <a href="/category/#policies"><i class="fa fa-angle-right"></i> Policies</a>
+            <span class="badge badge-theme pull-right">1</span>
+        </p>
+    
+        <p>
+            <a href="/category/#Wordpress"><i class="fa fa-angle-right"></i> Wordpress</a>
+            <span class="badge badge-theme pull-right">1</span>
+        </p>
+    
+        <p>
+            <a href="/category/#Photoshop"><i class="fa fa-angle-right"></i> Photoshop</a>
             <span class="badge badge-theme pull-right">1</span>
         </p>
     
@@ -221,14 +199,14 @@
             </li>
             
                 <li>
-                    <a href="/administrative/legal/policies/privacy-policy"><img src="/assets/img/blog/thumbs/thumb03.jpg" alt="Popular Post"></a>
-                    <p><a href="/administrative/legal/policies/privacy-policy">Privacy Policy</a></p>
+                    <a href="/blog/wordpress/photoshop/time-to-change-your-apps"><img src="/assets/img/blog/thumbs/thumb01.jpg" alt="Popular Post"></a>
+                    <p><a href="/blog/wordpress/photoshop/time-to-change-your-apps">Time to change your apps</a></p>
                 <em>Posted on 25 Apr 2014</em>
             </li>
             
                 <li>
-                    <a href="/blog/wordpress/photoshop/time-to-change-your-apps"><img src="/assets/img/blog/thumbs/thumb01.jpg" alt="Popular Post"></a>
-                    <p><a href="/blog/wordpress/photoshop/time-to-change-your-apps">Time to change your apps</a></p>
+                    <a href="/administrative/legal/policies/privacy-policy"><img src="/assets/img/blog/thumbs/thumb03.jpg" alt="Popular Post"></a>
+                    <p><a href="/administrative/legal/policies/privacy-policy">Privacy Policy</a></p>
                 <em>Posted on 25 Apr 2014</em>
             </li>
             
@@ -252,15 +230,15 @@
         
             <a class="btn btn-theme" href="/category/#Development" role="button">Development (1)</a>
         
-            <a class="btn btn-theme" href="/category/#Wordpress" role="button">Wordpress (1)</a>
-        
-            <a class="btn btn-theme" href="/category/#Photoshop" role="button">Photoshop (1)</a>
-        
             <a class="btn btn-theme" href="/category/#administrative" role="button">Administrative (1)</a>
         
             <a class="btn btn-theme" href="/category/#legal" role="button">Legal (1)</a>
         
             <a class="btn btn-theme" href="/category/#policies" role="button">Policies (1)</a>
+        
+            <a class="btn btn-theme" href="/category/#Wordpress" role="button">Wordpress (1)</a>
+        
+            <a class="btn btn-theme" href="/category/#Photoshop" role="button">Photoshop (1)</a>
         
             <a class="btn btn-theme" href="/category/#question" role="button">Question (1)</a>
         
@@ -279,7 +257,6 @@
                 <h4>About</h4>
                 <div class="hline-w"></div>
                 <p>Master Tool & Machine is your full circle manufacturing supplier, capable of evaluating problems – suggesting solutions - supplying AutoCAD drawings - building Custom machines & equipment - to production Fabrication.</p>
-                <a href="/administrative/legal/policies/privacy-policy">Privacy Policy</a>
             </div>
           <!--  <div class="col-lg-4">
                 <h4>Social Links</h4>

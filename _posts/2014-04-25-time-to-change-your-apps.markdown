@@ -1,12 +1,12 @@
 ---
-layout: post
-title: "Time to change your apps"
-date: 2014-04-25 16:54:46
-author: Admin
-categories: 
-- blog 
+title: Time to change your apps
+date: 2014-04-25 16:54:46 Z
+categories:
+- blog
 - Wordpress
 - Photoshop
+layout: post
+author: Admin
 img: post01.jpg
 thumb: thumb01.jpg
 ---

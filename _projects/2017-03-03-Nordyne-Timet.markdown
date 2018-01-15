@@ -1,10 +1,10 @@
 ---
-layout: project
-title: "Nordyne Timet"
-date: 2017-03-06 16:54:46
-author: Phil Mullican
+title: Nordyne Timet
+date: 2017-03-06 16:54:46 Z
 categories:
 - project
+layout: project
+author: Phil Mullican
 img: Nordyne-Timet-007_thumb.png
 thumb: Nordyne-Timet-007_thumb.png
 carousel:
@@ -13,6 +13,7 @@ tagged: Flat, UI, Development
 client: Wonder Corp.
 website: http://blacktie.co
 ---
+
 #### YOUR PROJECT NAME
 The customer needed to transfer heat exchangers without damaging them.
 

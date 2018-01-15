@@ -1,12 +1,12 @@
 ---
-layout: post
-title:  "Our new logo is here"
-date:   2014-04-25 16:54:46
-author: Admin
-categories: 
+title: Our new logo is here
+date: 2014-04-25 16:54:46 Z
+categories:
 - blog
 - Web-Design
 - Development
+layout: post
+author: Admin
 img: post02.jpg
 thumb: thumb02.jpg
 ---

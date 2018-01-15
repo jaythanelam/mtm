@@ -5,9 +5,9 @@
     <description>Master Tool &amp; Machine is your full circle manufacturing supplier, capable of evaluating problems – suggesting solutions - supplying AutoCAD drawings - building Custom machines &amp; equipment - to production Fabrication.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 03 Jul 2017 11:20:17 -0400</pubDate>
-    <lastBuildDate>Mon, 03 Jul 2017 11:20:17 -0400</lastBuildDate>
-    <generator>Jekyll v3.5.0</generator>
+    <pubDate>Mon, 15 Jan 2018 11:52:18 -0500</pubDate>
+    <lastBuildDate>Mon, 15 Jan 2018 11:52:18 -0500</lastBuildDate>
+    <generator>Jekyll v3.6.0</generator>
     
       <item>
         <title>Question: Why did the Chicken cross the road?</title>
@@ -19,31 +19,6 @@
         
         
         <category>question</category>
-        
-      </item>
-    
-      <item>
-        <title>Administrative: Privacy Policy</title>
-        <description>&lt;p&gt;&lt;b&gt;Thank you for visiting Master Tool &amp;amp; Machine.&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;The purpose of our policy is to inform you about the types of information we gather about you when you visit our web site, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information that you provide to us.
-&lt;!--more--&gt;
-Like many other web sites, our web site uses a standard technology called web statistics or web stats to collect information about how our web site is used. Web stats are designed to help a web site recognize a user’s browser as a previous visitor and thus save and remember any preferences that may have been set while the user was browsing the site. Our web stat technology cannot retrieve any other data from your hard drive, pass on a computer virus, or capture your e-mail address.&lt;/p&gt;
-
-&lt;p&gt;Our web site may use cookies to enhance your visit. Cookies can securely store a user’s password, personalize home pages, identify which parts of a site have been visited or keep track of selections, such as those selected in a “shopping cart.” Our cookies may collect your domain name and track your selections through our web pages. We only use “cookies” to gather the information indicated in this policy and do not use cookies to gather personal identifying information about you without your consent.&lt;/p&gt;
-
-&lt;p&gt;If you feel that this site is not following its stated information policy, you may contact us at the addresses or phone number below, state or local chapters of the Better Business Bureau, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at: &lt;a href=&quot;http://www.ftc.gov/ftc/complaint.htm&quot;&gt;FTC Complaint&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 25 Apr 2014 12:54:46 -0400</pubDate>
-        <link>http://localhost:4000/administrative/legal/policies/privacy-policy</link>
-        <guid isPermaLink="true">http://localhost:4000/administrative/legal/policies/privacy-policy</guid>
-        
-        
-        <category>administrative</category>
-        
-        <category>legal</category>
-        
-        <category>policies</category>
         
       </item>
     
@@ -78,6 +53,31 @@ It is a long established fact that a reader will be distracted by the readable c
         <category>Wordpress</category>
         
         <category>Photoshop</category>
+        
+      </item>
+    
+      <item>
+        <title>Administrative: Privacy Policy</title>
+        <description>&lt;p&gt;&lt;b&gt;Thank you for visiting Master Tool &amp;amp; Machine.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;The purpose of our policy is to inform you about the types of information we gather about you when you visit our web site, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information that you provide to us.
+&lt;!--more--&gt;
+Like many other web sites, our web site uses a standard technology called web statistics or web stats to collect information about how our web site is used. Web stats are designed to help a web site recognize a user’s browser as a previous visitor and thus save and remember any preferences that may have been set while the user was browsing the site. Our web stat technology cannot retrieve any other data from your hard drive, pass on a computer virus, or capture your e-mail address.&lt;/p&gt;
+
+&lt;p&gt;Our web site may use cookies to enhance your visit. Cookies can securely store a user’s password, personalize home pages, identify which parts of a site have been visited or keep track of selections, such as those selected in a “shopping cart.” Our cookies may collect your domain name and track your selections through our web pages. We only use “cookies” to gather the information indicated in this policy and do not use cookies to gather personal identifying information about you without your consent.&lt;/p&gt;
+
+&lt;p&gt;If you feel that this site is not following its stated information policy, you may contact us at the addresses or phone number below, state or local chapters of the Better Business Bureau, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at: &lt;a href=&quot;http://www.ftc.gov/ftc/complaint.htm&quot;&gt;FTC Complaint&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 25 Apr 2014 12:54:46 -0400</pubDate>
+        <link>http://localhost:4000/administrative/legal/policies/privacy-policy</link>
+        <guid isPermaLink="true">http://localhost:4000/administrative/legal/policies/privacy-policy</guid>
+        
+        
+        <category>administrative</category>
+        
+        <category>legal</category>
+        
+        <category>policies</category>
         
       </item>
     
