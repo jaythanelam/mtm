@@ -1,10 +1,10 @@
 ---
-layout: service
-title:  "Machine Details"
-date:   2014-04-25 16:54:46
-author: Jay Elam
+title: Machine Details
+date: 2014-04-25 16:54:46 Z
 categories:
 - Services
+layout: service
+author: Jay Elam
 img: portfolio_10.jpg
 thumb: thumb02.jpg
 carousel:
@@ -12,9 +12,10 @@ carousel:
 - single02.jpg
 - single03.jpg
 tagged: low volume, machining, details, custom
-client:
-website:
+client: 
+website: 
 ---
+
 ### Machining
 Low volume details are machined on the conventional mills and lathes while high volume components or complex components are machined on our CNC milling machine. We are able to turn quotes around for detail work within 24 hours or less. Give us a chance to prove we can be competitive.
 

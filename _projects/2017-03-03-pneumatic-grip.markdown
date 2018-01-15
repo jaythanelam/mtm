@@ -1,10 +1,10 @@
 ---
-layout: project
-title: "Pneumatic Grip"
-date: 2017-03-06 16:54:46
-author: Phil Mullican
+title: Pneumatic Grip
+date: 2017-03-06 16:54:46 Z
 categories:
 - project
+layout: project
+author: Phil Mullican
 img: pneumatic-grip_thumb.png
 thumb: pneumatic-grip_thumb.png
 carousel:
@@ -13,6 +13,7 @@ tagged: Flat, UI, Development
 client: Wonder Corp.
 website: http://blacktie.co
 ---
+
 #### YOUR PROJECT NAME
 The customer had a challenge of how to transfer brake drums weighing up to 180 lbs quickly and safely  from the  production line to a  pallet for transporting.
 

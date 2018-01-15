@@ -1,10 +1,10 @@
 ---
-layout: project
-title: "Pneumatic Parallel Clamp Jaw"
-date: 2017-03-06 16:54:46
-author: Phil Mullican
+title: Pneumatic Parallel Clamp Jaw
+date: 2017-03-06 16:54:46 Z
 categories:
 - project
+layout: project
+author: Phil Mullican
 img: 20160603_145732_thumb.png
 thumb: 20160603_145732_thumb.png
 carousel:
@@ -13,6 +13,7 @@ tagged: Flat, UI, Development
 client: Wonder Corp.
 website: http://blacktie.co
 ---
+
 #### YOUR PROJECT NAME
 The task was to straight transfer various size, shape and weights of gear boxes.
 
